@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fapipie-rails.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fapipie-rails?ref=badge_shield)
+
 ========================
  API Documentation Tool
 ========================
@@ -1455,3 +1457,7 @@ configuration:
 * `Read-world application usage with versioning <https://github.com/theforeman/foreman>`_
 
 * `Using Apipie API to generate bindings <https://github.com/Apipie/apipie-bindings>`_
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fapipie-rails.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fapipie-rails?ref=badge_large)
